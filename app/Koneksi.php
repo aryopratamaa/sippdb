@@ -1,11 +1,8 @@
-<?php 
+<?php
 
-namespace App;
-use PDO;
+class Koneksi {
 
-class Controller {
-
-	protected object $db;
+	protected $db;
 
 	public function __construct() {
 
