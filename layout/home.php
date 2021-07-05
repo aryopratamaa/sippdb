@@ -72,7 +72,7 @@
 						<!--//nav-item-->
                         <li class="nav-item">
 							<!--//Bootstrap Icons: https://icons.getbootstrap.com/ -->
-							<a class="nav-link" href="dashboard.php?page=prodi.php">
+							<a class="nav-link" href="index.php?page=prodi">
 								<span class="nav-icon">
 									<svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-folder"
 										fill="currentColor" xmlns="http://www.w3.org/2000/svg">
